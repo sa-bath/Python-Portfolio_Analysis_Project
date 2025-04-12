@@ -14,7 +14,7 @@ Fetches historical stock prices for selected portfolio and benchmark (e.g., S&P 
 
 Visualizes historical price trends and normalized performance
 
-Calculates:
+## Calculates:
 
 Log returns
 
