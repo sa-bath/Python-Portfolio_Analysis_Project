@@ -22,7 +22,7 @@ Daily and annualized returns
 
 Covariance and correlation matrices
 
-Constructs portfolio with:
+## Constructs portfolio with:
 
 Equal weighting
 
